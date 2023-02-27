@@ -1,0 +1,8 @@
+/** :host Special selector -> selects te host selector */
+:host {
+  display:flex;
+  /* gap: 14px; */
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
